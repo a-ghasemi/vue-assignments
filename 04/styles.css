@@ -82,10 +82,10 @@ p {
   color: white;
 }
 
-.hidden {
-  display: none;
+.my-hidden {
+  visibility: hidden;
 }
 
-.visible {
-  display: block;
+.my-visible {
+  visibility: visible;
 }
